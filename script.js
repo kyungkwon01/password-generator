@@ -4,6 +4,7 @@ var passwordGenerate = document.getElementById("generate");
 
 // Function to generate the password
 function generatePassword() {
+  // Assigning variables to possible password characters and the length of the password
   var password = "";
   var passwordCharacters = "";
   var lowercase = "abcdefghijklmnopqrstuvwxyz";
