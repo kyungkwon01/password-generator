@@ -22,3 +22,5 @@ When the "Generate Password" button is clicked, a series of prompts will be disp
 This project was built using HTML, CSS, and JavaScript.
 
 ![Password Generator](./assets/password-generator-demo.png)
+
+- https://kyungkwon01.github.io/password-generator/
